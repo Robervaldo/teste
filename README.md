@@ -16,7 +16,7 @@ git add README.md
 
 git commit -m "first commit"
 
-git remote add origin https://github.com/Robervaldo/myLocation.git
+git remote add origin https://github.com/Robervaldo/teste.git
 
 git push -u origin master
 
@@ -24,6 +24,6 @@ git push -u origin master
 Push an existing repository from the command line
 
 
-git remote add origin https://github.com/Robervaldo/myLocation.git
+git remote add origin https://github.com/Robervaldo/teste.git
 
 git push -u origin master
